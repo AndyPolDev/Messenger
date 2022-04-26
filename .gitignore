@@ -88,3 +88,9 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+/.DS_Store
+/Pods
+/Flash Chat iOS13.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+/Flash Chat iOS13.xcworkspace/contents.xcworkspacedata
+/Flash Chat iOS13.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+/Flash Chat iOS13.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
